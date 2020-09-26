@@ -27,4 +27,4 @@ Flixit is an app that allows users to browse movies from the [The Movie Database
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I tried to pull my code down from Github to update my directory with the "Read Me" After I did so I accidentally clicked a message about "unstashed changes" that erased my entire project. Someone very kind on slack helped me to revert the changes. I filmed my video and got it on Youtube https://www.youtube.com/watch?v=1UsM9H3tCL0 but couldnt get it as a Gif to submit in the assinment tab- i inserted a blank invalid gif name. Apologies- down in the bbottom of the assignment you'll see the link to youtube.
